@@ -12,5 +12,5 @@ export const environment = {
 
 export const supabase = createClient(
     'https://ukbhxvdbqotfykwbvxej.supabase.co',
-    'sb_publishable_owzSElL6pHEJ7QFrJH1_WA_ApRMFy0T'
+    'https://ukbhxvdbqotfykwbvxej.supabase.co/rest/v1/usuarios01'
   );
